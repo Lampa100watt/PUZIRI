@@ -1,3 +1,5 @@
 [user]
 	name = Movsisyan Tatevik
 	email = tunush@mail.ru
+[push]
+	default = simple
